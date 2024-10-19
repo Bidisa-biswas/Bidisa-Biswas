@@ -13,6 +13,14 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🛠️ **Data Engineering**: Designing robust ETL pipelines to process and manage structured/unstructured financial data.
 - 💡 **Algorithmic Trading & Risk Management**: Applying machine learning to build strategies and models for finance.
 - 🔍 **Big Data & Cloud**: Working with cloud platforms (AWS) and big data tools (Spark, Hadoop) to manage vast amounts of financial data
+
+
+### Tools & Technologies:
+- **Languages**: Python, SQL, R, Matlab, Stata
+- **Data Tools**: Pandas, NumPy, TensorFlow, PySpark, Apache Airflow
+- **Cloud & Big Data**: AWS, PySpark, Hadoop
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Visualization**: Matplotlib, Seaborn, Plotly, Power BI, Tableau
  
 ### Connect with me:
 www.linkedin.com/in/bidisa-biswas-18a831202
