@@ -5,6 +5,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🏛️ Education: Currently doing my Masters in Quantitative Finance from Christian-Albrecht University of Kiel, Germany
 - ⛑️ Work: Currently employed as a Data Engineer (Part-Time) at Varengold Bank
 - ♨️ Portfolio: Bidisa-Biswas
+- 📈 About me: Passionate about turning data into stories that drive financial decisions. Feel free to connect if you share the same interests or want to collaborate on interesting
+     data-driven projects!
 
 
 ### Learning and implementation:
@@ -21,8 +23,10 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **Cloud & Big Data**: AWS, PySpark, Hadoop
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Visualization**: Matplotlib, Seaborn, Plotly, Power BI, Tableau
+
  
 ### Connect with me:
 www.linkedin.com/in/bidisa-biswas-18a831202
+Email: bidishabiswas8961@gmail.com
 
 
