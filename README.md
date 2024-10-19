@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Bidisa! 👋
 
-<!--
-**Bidisa-biswas/Bidisa-Biswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a bit about me:
 
-Here are some ideas to get you started:
+🏛️ Education: Currently doing my Masters in Quantitative Finance from Christian-Albrecht University of Kiel, Germany
+⛑️ Work: Currently employed as a Data Engineer (Part-Time) at Varengold Bank
+🎭 Who am I: 
+♨️ Portfolio: Bidisa-Biswas
+🎭 Who am I: Interesting enough in every field possible. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+www.linkedin.com/in/bidisa-biswas-18a831202
+
+
