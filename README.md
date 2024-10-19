@@ -7,7 +7,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 - ♨️ Portfolio: Bidisa-Biswas
 
 
-  ### Good at:
+### Learning and implementation:
+
 - 📊 **Data Analysis & Modeling**: Building predictive Time series models and generating insights from large-scale financial datasets.
 - 🛠️ **Data Engineering**: Designing robust ETL pipelines to process and manage structured/unstructured financial data.
 - 💡 **Algorithmic Trading & Risk Management**: Applying machine learning to build strategies and models for finance.
