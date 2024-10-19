@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a bit about me:
      data-driven projects!
 
 
-### Learning and implementation:
+### Learning and Implementation:
 
 - 📊 **Data Analysis & Modeling**: Building predictive Time series models and generating insights from large-scale financial datasets.
 - 🛠️ **Data Engineering**: Designing robust ETL pipelines to process and manage structured/unstructured financial data.
