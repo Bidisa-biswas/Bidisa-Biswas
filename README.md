@@ -2,11 +2,10 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-- 🏛️ Education: Currently doing my Masters in Quantitative Finance from Christian-Albrecht University of Kiel, Germany
-- ⛑️ Work: Currently employed as a Data Engineer (Part-Time) at Varengold Bank
+- 🏛️ Education: Currently doing my Master's in Quantitative Finance from Christian-Albrecht University of Kiel, Germany
+- ⛑️ Work: Currently employed as a Data Governance Engineer (Part-Time) at Signal Iduna Gruppe
 - ♨️ Portfolio: Bidisa-Biswas
-- 📈 About me: Passionate about turning data into stories that drive financial decisions. Feel free to connect if you share the same interests or want to collaborate on interesting
-     data-driven projects!
+- 📈 About me: Passionate about turning data into stories that drive financial decisions. Feel free to connect if you share the same interests or want to collaborate on interesting data-driven projects!
 
 
 ### Learning and Implementation:
@@ -18,11 +17,11 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 
 ### Tools & Technologies:
-- **Languages**: Python, SQL, R, Matlab, Stata
+- **Languages**: Python, Java, SQL, R, Matlab
 - **Data Tools**: Pandas, NumPy, TensorFlow, PySpark, Apache Airflow
-- **Cloud & Big Data**: AWS, PySpark, Hadoop
+- **Cloud & Big Data**: AWS S3, Snowflake, PySpark, 
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Visualization**: Matplotlib, Seaborn, Plotly, Power BI, Tableau
+- **Visualization**: Matplotlib, Plotly, Power BI, Tableau
 
  
 ### Connect with me:
