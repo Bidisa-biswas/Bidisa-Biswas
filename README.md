@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🔍 **Big Data & Cloud**: Working with cloud platforms (AWS) and big data tools (Spark, Hadoop) to manage vast amounts of financial data
 
 
-### Tools & Technologies:
+### Tech Stack:
 - **Languages**: Python, Java, SQL, R, Matlab
 - **Data Tools**: Pandas, NumPy, TensorFlow, PySpark, Apache Airflow
 - **Cloud & Big Data**: AWS S3, Snowflake, PySpark, 
